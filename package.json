@@ -1,0 +1,22 @@
+{
+  "name": "evtoebitda",
+  "version": "1.0.0",
+  "description": "\"free stock screener\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MurphyPicard/evToEbitdaAPI.git"
+  },
+  "author": "\"Ara Yaghsizian <ayaghsizian@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MurphyPicard/evToEbitdaAPI/issues"
+  },
+  "homepage": "https://github.com/MurphyPicard/evToEbitdaAPI#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
