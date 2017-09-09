@@ -4,7 +4,7 @@
   "description": "\"free stock screener\"",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test1"
   },
   "repository": {
     "type": "git",
